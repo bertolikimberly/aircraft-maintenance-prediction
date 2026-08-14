@@ -2,7 +2,7 @@
 
 ### Applied Machine Learning for Predictive Aircraft Maintenance
 
-**CS610 Applied Machine Learning — Group 10**
+**CS610 Applied Machine Learning**
 
 A machine-learning pipeline for predicting near-term aircraft maintenance risk from multivariate flight sensor data.
 
